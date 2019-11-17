@@ -29,7 +29,5 @@ public class Main {
             System.out.println("Pole czwartego kwadratu = " + (a * a) + ".");
             System.out.println("Obwód tego kwadratu = " + (4*a) + ".");
 
-
-
     }
 }
